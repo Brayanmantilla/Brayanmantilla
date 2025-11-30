@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Brayan Mantilla
 
-## 🚀 Desarrollador Full-Stack | Ingeniero Biomédico
+## 🚀 Desarrollador Full-Stack Junior| Ingeniero Biomédico | Analista de Datos Junior
 
 Apasionado por crear soluciones tecnológicas que optimicen procesos empresariales. Me especializo en desarrollo backend con Java/Spring Boot y tengo experiencia construyendo aplicaciones full-stack completas.
 
@@ -53,16 +53,6 @@ Aplicación empresarial para gestión de eventos
 - **Stack:** Java, ZK Framework, Spring, JPA/Hibernate
 - Calendario interactivo con drag-and-drop
 - Patrón MVVM con notificaciones automáticas
-
----
-
-### 📊 Estadísticas GitHub
-### 📊 Estadísticas GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brayanmantilla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayanmantilla&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
 ---
 
